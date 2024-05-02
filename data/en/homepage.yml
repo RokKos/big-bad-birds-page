@@ -1,0 +1,130 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Big Bad Birds"
+  content: "**A new board game of brain-busting street smarts!**<br><br>Listen up! We're the big bosses of the seagull and crow crews, ruling all them city rooftops. But we got this annoying rival gang always messing with our vibe. You gotta be slick: plan, hide, scout, attack, bait, bluff and double bluff! Let,s show them who's the real kings of the sky!<br><br>**15 MIN | 2 PLAYERS | 8+ YEARS**"
+  image: "images/bbg_box_photo.png"
+  button:
+    enable: false 
+    label: "Browse All Products"
+    link: "products/"
+
+############################# Feature ############################
+features:
+  enable: true
+  title: "Our Core Features"
+  image: "images/watch-2.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "Smooth Touch"
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+      # feature item loop
+    - title: "Elegant Design"
+      icon: "tf-ion-ios-bell-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+      # feature item loop
+    - title: "Easy Pricing"
+      icon: "tf-ion-ios-cart-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+    - title: "Smooth Touch"
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+      # feature item loop
+    - title: "Elegant Design"
+      icon: "tf-ion-ios-bell-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+      # feature item loop
+    - title: "Easy Pricing"
+      icon: "tf-ion-ios-cart-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+############################# promo ############################
+promo:
+  enable: true
+  image: "images/box_real_life.JPG"
+  title: "Check out our latest BLOG posts"
+  content:
+    " **Try the game on [Prototype Day](https://parkenigma.com/koledar-dogodkov/)**
+    <br><br>
+    [Park Enigma](https://maps.app.goo.gl/NnDeWQQV9Tk8ACP38) in Kranj on 18.5.2024"
+  button:
+    enable: true 
+    label: "Blog Posts"
+    link: "blog/"
+
+
+############################# About Product #######################
+about_product:
+  enable: true
+  title: "Why Choose Apple Watch"
+  items:
+    # about product item loop
+    - image: "images/showcase/showcase-4.png"
+      title: "Lorem ipsum dolor sit amet."
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+    # about product item loop
+    - image: "images/showcase/showcase-3.png"
+      title: "Lorem ipsum dolor sit amet."
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+#################################### Products ########################
+products:
+  enable: true
+  title: "Gallery"
+
+################################## Subscription ###################
+subscription:
+  enable: true
+  bg_image: "images/call-to-action.jpg"
+  title: "Get Product Updates"
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder: "Your Email Address Here"
+
+############################## Testimonial ##########################
+testimonial:
+  enable: false 
+  title: "Testimonial"
+  testimonial_item:
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
